@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9112
     wikipedia: http://en.wikipedia.org/wiki/John_W._Campbell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20154#Invaders-from-the-Infinite
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-12-20'
 gutenberg_type: Text
